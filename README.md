@@ -22,11 +22,6 @@ I'm a passionate programmer who loves **solving problems**, **building cool proj
 
 ---
 
-## 🚀 GitHub Stats
-![Aarush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fierykylo&show_icons=true&count_private=true&hide_rank=false&theme=radical&include_all_commits=true)
-
----
-
 ## 📂 Projects
 Here are some projects I'm working on or planning:
 - **ChatGPT-style Web App** – Full stack AI chat interface
