@@ -23,9 +23,7 @@ I'm a passionate programmer who loves **solving problems**, **building cool proj
 ---
 
 ## 🚀 GitHub Stats
-
-![Aarush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fierykylo&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fierykylo&layout=compact&langs_count=6&theme=radical)
+![Aarush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fierykylo&show_icons=true&count_private=true&hide_rank=false&theme=radical&include_all_commits=true)
 
 ---
 
