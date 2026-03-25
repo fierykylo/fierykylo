@@ -1,41 +1,80 @@
-# Hey there, I'm Aarush! 👋
+# 👋 Hey, I'm Aarush
 
-I'm a passionate programmer who loves **solving problems**, **building cool projects**, and **learning new tech**. Currently exploring **C, C++, Python**, and venturing into **Web Development**, **AI/ML**, and **Competitive Programming** 😎.
-
----
-
-## 🌱 What I'm Learning
-- **Full Stack Development** – MERN stack, dynamic web apps
-- **Artificial Intelligence & Machine Learning** – from fundamentals to projects
-- **Data Structures & Algorithms** – sharpening CP skills  
+💻 Aspiring Full-Stack Developer | Competitive Programmer in Progress
 
 ---
 
-## 💻 Languages & Tools
-![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+## 🚀 About Me
+
+I’m focused on becoming a strong problem solver and a skilled developer.
+Currently working on **web development** while consistently practicing **Data Structures & Algorithms**.
+
+* 🔥 Solving problems daily on **LeetCode**
+* 🧠 Improving through **Competitive Programming**
+* ⚒️ Building full-stack web projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+HTML • CSS • JavaScript • TypeScript
+React • Next.js
+Tailwind CSS • Bootstrap
+Redux
+
+### ⚙️ Backend
+
+Node.js • Express.js
+
+### 🗄️ Databases
+
+MongoDB • SQL
+
+### ☁️ Tools
+
+Git
+
+### 💻 Languages
+
+C++ • Python • Java
+
+---
+
+## 🎯 Current Focus
+
+* 💪 Daily **LeetCode practice**
+* 🧩 Strengthening **DSA & Competitive Programming**
+* 🌐 Building **real-world web development projects**
+* ☁️ Learning **Cloud & DevOps**
 
 ---
 
 ## 📂 Projects
-Here are some projects I'm working on or planning:
-- **ChatGPT-style Web App** – Full stack AI chat interface
-- **DSA Repository** – My algorithms and problem-solving journey
-- **Portfolio Website** – Showcasing projects & skills
 
-*(More projects coming soon!)*  
+* 🧠 **DSA-Based Search Engine**
+  Efficient search system using optimized data structures and algorithms
+
+* 🧊 **Rubik’s Cube Solver**
+  Algorithm-driven solver showcasing strong problem-solving skills
+
+* 🧑‍🏫 **Realtime Whiteboard (Backend)**
+  Backend system supporting live collaboration and real-time updates
+
+* 🇮🇳 **DesiCamp (YelpCamp Inspired)**
+  Full-stack platform for discovering and reviewing campgrounds
+
+* ⚡ **Full Stack Next.js App**
+  Scalable web application built with modern React & backend integration
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarush-dubey-980106250/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fierykylo)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aarush-dubey-980106250/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/fierykylo)
 
 ---
 
-Thanks for stopping by! Let's **code, learn, and create together** 💻🔥
+⭐ *"Solve daily. Build consistently. Improve relentlessly."*
